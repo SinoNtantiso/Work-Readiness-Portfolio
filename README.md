@@ -1,7 +1,6 @@
 # Work-Readiness-Portfolio
-# Digital Portfolio
 
-Welcome to my digital portfolio showcasing my work readiness training. 
+Welcome to my work readiness portfolio showcasing my work readiness training. 
 
 ## Table of Contents
 - [Career Counseling](Career_Counseling.md)
