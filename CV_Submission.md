@@ -12,6 +12,9 @@ I researched various job openings that aligned with my career goals. Key steps i
 
 - **Job Boards**: Utilized platforms such as LinkedIn, Indeed, and Glassdoor to find relevant positions.
 - **Company Websites**: Visited the careers page of companies I was interested in.
+  ![WhatsApp Image 2025-05-23 at 23 14 48_192c2fe6](https://github.com/user-attachments/assets/40c7490d-ef6c-4497-a1b6-659d98a5d48a)
+![WhatsApp Image 2025-05-23 at 23 14 47_e0d21ce7](https://github.com/user-attachments/assets/631511b2-cf60-4ad3-9f7a-73a40d85db06)
+
 
 ### 2. Tailoring My CV
 For each application, I tailored my CV to match the job description by:
